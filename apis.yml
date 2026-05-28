@@ -1,0 +1,32 @@
+aid: vadivelu-http-codes
+name: Vadivelu HTTP Codes
+description: "On demand HTTP Codes with images"
+url: https://vadivelu.anoram.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Personality"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Personality
+  - Public APIs
+apis:
+  - name: Vadivelu HTTP Codes
+    description: "On demand HTTP Codes with images"
+    humanURL: https://vadivelu.anoram.com/
+    baseURL: https://vadivelu.anoram.com/
+    tags:
+      - Personality
+    properties:
+      - type: Documentation
+        url: https://vadivelu.anoram.com/
+common:
+  - type: Website
+    url: https://vadivelu.anoram.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
